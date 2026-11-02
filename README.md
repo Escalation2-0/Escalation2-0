@@ -5,6 +5,7 @@ I'm an annuity and life insurance operations professional moving into **business
 ## Projects
 | Project | What it is | Tools |
 |---|---|---|
+| [Copilot Studio agent prototypes](https://github.com/Escalation2-0/copilot-studio-agent-prototypes) | Hackathon build & demo lead: a service-form validator and a process improvement finder, tested on synthetic data | Microsoft Copilot Studio |
 | [RetirementHelper chatbot](https://github.com/Escalation2-0/retirementhelper-dialogflow-chatbot) | A 7-intent retirement Q&A agent with fallback handling and documented test results | Dialogflow ES |
 | [Insurance claims fraud analysis](https://github.com/Escalation2-0/insurance-claims-fraud-analysis-orange) | Fraud patterns in 1,000 insurance claims (t-test, severity breakdown) | Orange Data Mining |
 | [AI fundamentals coursework](https://github.com/Escalation2-0/ai-fundamentals-coursework) | Generative AI comparisons, neural network experiments, Power BI and Airtable, Python | TensorFlow Playground, Power BI, Airtable, Python/Colab |
